@@ -30,7 +30,7 @@ int main()
 
 				WriteProcessMemory(pHandle, (LPVOID)foodADD, &nFood, (DWORD)sizeof(nFood), 0);
 
-
+			}
 		}
 	}
 	system("pause");

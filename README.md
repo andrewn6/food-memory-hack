@@ -9,3 +9,5 @@ Clone my repoistory
 Open the folder of where you cloned it into visual studio
 
 Run the code and see the results!
+
+> Note: This code is for educational purposes. I am not responsible if you get banned on any servers for using this modification.

@@ -19,8 +19,8 @@ int main()
 		{
 			for (;;)
 			{
-				HWND hwnd = FindWindowA(0, ("Minecraft 1.16.4 - Singleplayer"));
-				if (!hwnd) cerr << "CANNOT FIND MINECRAFT 1.16.4" << endl;
+				HWND hwnd = FindWindowA(0, ("Minecraft 1.7.10));
+				if (!hwnd) cerr << "CANNOT FIND MINECRAFT 1.7.10" << endl;
 
 				GetWindowThreadProcessId(hwnd, &pID);
 				HANDLE pHandle = OpenProcess(PROCESS_ALL_ACCESS, FALSE, pID);

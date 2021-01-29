@@ -1,6 +1,6 @@
 # food-memory-hack
 
-A memory hack coded in C++ to automatically eat food for you in minecraft 1.16.4!
+A memory hack coded in C++ to automatically eat food for you in minecraft 1.7.10!
 
 To get it up and running make sure you have Visual Studio 2019 with C++ installed [gohere](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
